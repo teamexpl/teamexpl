@@ -1,2 +1,0 @@
-shared.STEALMONEY = true -- do it false if you dont want to steal money
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rapnz/scripts/master/SuperHeroTycoonStealStuff.lua"))()
